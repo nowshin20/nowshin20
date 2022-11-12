@@ -1,5 +1,6 @@
 
-#👋 Hello, I’m Nowshin
+👋 Hello, I’m Nowshin
+
 - 👀 I’m interested in Problem Solving,AI,ML,DL,IoT and Cloud computing.
 - 🌱 I’m currently learning and working with DL.
 - 💞️ I’m looking to collaborate on DL,IoT based research works.
